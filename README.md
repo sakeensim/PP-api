@@ -22,13 +22,12 @@ git add .
 git commit -m "message"
 ```
 
-
-
 next step
 copy code from repo
 only first time
+get them from github 3 line from buttom
 ```bash
-git remote add origin https://github.com/sakeensim/Personal_project-api.git
+git remote add origin https://github.com/sakeensim/PP-api
 git branch -M main
 git push -u origin main
 ```
